@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
