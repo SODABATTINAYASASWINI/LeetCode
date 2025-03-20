@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0048-rotate-image) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0048-rotate-image) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
