@@ -46,5 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+## String
+|  |
+| ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Counting
+|  |
+| ------- |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 <!---LeetCode Topics End-->
