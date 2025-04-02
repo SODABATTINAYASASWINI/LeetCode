@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
