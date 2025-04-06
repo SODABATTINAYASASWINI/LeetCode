@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0898-transpose-matrix) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3540-hash-divided-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3540-hash-divided-string) |
 ## Math
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0189-rotate-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
 ## Number Theory
 |  |
