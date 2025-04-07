@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0189-rotate-array) |
+| [1448-maximum-69-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Sorting
