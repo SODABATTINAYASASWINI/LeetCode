@@ -64,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
 ## String
 |  |
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3540-hash-divided-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3540-hash-divided-string) |
 ## Counting
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
 ## Sorting
 |  |
 | ------- |
