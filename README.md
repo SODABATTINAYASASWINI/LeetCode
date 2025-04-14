@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0898-transpose-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
+| [1656-count-good-triplets](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2998-count-symmetric-integers) |
 ## Linked List
