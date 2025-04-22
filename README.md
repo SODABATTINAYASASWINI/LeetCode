@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0046-permutations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
