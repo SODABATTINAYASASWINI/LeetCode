@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0001-two-sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0047-permutations-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
