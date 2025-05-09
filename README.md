@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0119-pascals-triangle-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0898-transpose-matrix) |
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
