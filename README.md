@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0898-transpose-matrix) |
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
+| [1293-three-consecutive-odds](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
