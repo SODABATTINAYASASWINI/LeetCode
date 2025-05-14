@@ -196,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0198-house-robber) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
