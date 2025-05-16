@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3540-hash-divided-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3540-hash-divided-string) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
