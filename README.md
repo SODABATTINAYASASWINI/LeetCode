@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0290-word-pattern) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0290-word-pattern) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
