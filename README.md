@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
 |  |
 | ------- |
