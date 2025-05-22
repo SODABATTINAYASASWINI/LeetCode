@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2048-build-array-from-permutation) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3540-hash-divided-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3540-hash-divided-string) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
 ## Math
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3540-hash-divided-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3540-hash-divided-string) |
+| [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
