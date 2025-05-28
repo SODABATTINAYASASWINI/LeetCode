@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
 | [2998-count-symmetric-integers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3321-type-of-triangle) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
