@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0189-rotate-array) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0874-backspace-string-compare) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0898-transpose-matrix) |
 | [2048-build-array-from-permutation](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2048-build-array-from-permutation) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0290-word-pattern) |
+| [0874-backspace-string-compare](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2470-removing-stars-from-a-string) |
 ## Divide and Conquer
