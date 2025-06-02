@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0290-word-pattern) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
