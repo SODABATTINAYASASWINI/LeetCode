@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3447-clear-digits) |
 | [3540-hash-divided-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3540-hash-divided-string) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Math
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3540-hash-divided-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3540-hash-divided-string) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2470-removing-stars-from-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3447-clear-digits) |
+| [3860-resulting-string-after-adjacent-removals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Divide and Conquer
 |  |
 | ------- |
