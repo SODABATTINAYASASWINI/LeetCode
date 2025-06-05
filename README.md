@@ -270,18 +270,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
