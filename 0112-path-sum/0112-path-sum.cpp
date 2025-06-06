@@ -14,13 +14,15 @@ public:
     int uu = 10001;
     void check(TreeNode* root, int t, int sum){
         if(root == NULL) return;
-        // sum + root->val;
+        sum += root->val;
         if(!root->left && !root->right){
-            if(sum+root->val == t) uu = sum+root->val;
-            return;
+            if(sum == t) {
+                uu = sum;
+                return;
+            }
         }
-        check(root->left,t,sum + root->val);
-        check(root->right,t,sum + root->val);
+        check(root->left,t,sum);
+        check(root->right,t,sum );
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
         if(root == NULL) return 0;
