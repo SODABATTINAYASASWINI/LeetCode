@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0290-word-pattern) |
+| [0394-decode-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0394-decode-string) |
 ## String Matching
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0874-backspace-string-compare) |
