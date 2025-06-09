@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3221-find-the-peaks](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3221-find-the-peaks) |
 | [3321-type-of-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2998-count-symmetric-integers) |
+| [3221-find-the-peaks](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3221-find-the-peaks) |
 ## Linked List
 |  |
 | ------- |
