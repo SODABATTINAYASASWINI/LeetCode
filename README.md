@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0739-daily-temperatures) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0073-set-matrix-zeroes) |
+| [0219-contains-duplicate-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
