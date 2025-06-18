@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0190-reverse-bits) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0190-reverse-bits) |
 ## Merge Sort
 |  |
 | ------- |
