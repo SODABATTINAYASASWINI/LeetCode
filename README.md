@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2048-build-array-from-permutation) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0383-ransom-note) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3872-find-most-frequent-vowel-and-consonant) |
