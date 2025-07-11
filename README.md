@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0739-daily-temperatures) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0383-ransom-note) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
 | [1306-minimum-absolute-difference](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1306-minimum-absolute-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
