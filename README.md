@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
+| [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0739-daily-temperatures) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0979-di-string-match) |
 | [1448-maximum-69-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
+| [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [1306-minimum-absolute-difference](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1306-minimum-absolute-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Backtracking
 |  |
