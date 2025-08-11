@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0898-transpose-matrix) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0240-search-a-2d-matrix-ii) |
 ## Merge Sort
 |  |
 | ------- |
