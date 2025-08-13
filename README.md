@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1448-maximum-69-number) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
