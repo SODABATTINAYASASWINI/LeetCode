@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0175-combine-two-tables) |
+| [0595-big-countries](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0595-big-countries) |
 ## Monotonic Stack
 |  |
 | ------- |
