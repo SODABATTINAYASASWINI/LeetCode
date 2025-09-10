@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3830-find-closest-person](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
