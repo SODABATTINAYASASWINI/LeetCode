@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2211-k-radius-subarray-averages](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2211-k-radius-subarray-averages) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2350-find-closest-number-to-zero](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2350-find-closest-number-to-zero) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
