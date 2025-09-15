@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0874-backspace-string-compare) |
 | [0979-di-string-match](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0979-di-string-match) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
