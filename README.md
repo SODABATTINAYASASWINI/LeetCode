@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0240-search-a-2d-matrix-ii) |
+| [0414-third-maximum-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0643-maximum-average-subarray-i) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [1306-minimum-absolute-difference](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1306-minimum-absolute-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
