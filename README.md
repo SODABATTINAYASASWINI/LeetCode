@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0898-transpose-matrix) |
 | [0979-di-string-match](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0979-di-string-match) |
 | [0983-validate-stack-sequences](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0983-validate-stack-sequences) |
+| [1018-largest-perimeter-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1306-minimum-absolute-difference) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0326-power-of-three) |
+| [1018-largest-perimeter-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0979-di-string-match) |
+| [1018-largest-perimeter-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
+| [1018-largest-perimeter-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1018-largest-perimeter-triangle) |
 | [1306-minimum-absolute-difference](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1306-minimum-absolute-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
