@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0983-validate-stack-sequences) |
+| [1642-water-bottles](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2048-build-array-from-permutation) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1448-maximum-69-number) |
+| [1642-water-bottles](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2307-replace-non-coprime-numbers-in-array) |
