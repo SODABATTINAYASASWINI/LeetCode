@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3540-hash-divided-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Math
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3540-hash-divided-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3540-hash-divided-string) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
