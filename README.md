@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
 | [2998-count-symmetric-integers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3321-type-of-triangle) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
