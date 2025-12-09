@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1642-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1656-count-good-triplets) |
+| [1925-count-square-sum-triples](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3221-find-the-peaks) |
