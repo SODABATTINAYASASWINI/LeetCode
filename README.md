@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3194-find-words-containing-character) |
 | [3206-alternating-groups-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3206-alternating-groups-i) |
+| [3208-alternating-groups-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3208-alternating-groups-ii) |
 | [3221-find-the-peaks](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-k-radius-subarray-averages](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2211-k-radius-subarray-averages) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3206-alternating-groups-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3206-alternating-groups-i) |
+| [3208-alternating-groups-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3208-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
