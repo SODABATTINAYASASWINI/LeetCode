@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -80,8 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0027-remove-element](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0061-rotate-list) |
@@ -95,8 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0979-di-string-match) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0190-reverse-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0231-power-of-two) |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
@@ -105,8 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0240-search-a-2d-matrix-ii) |
@@ -116,8 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2454-largest-local-values-in-a-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0861-flipping-an-image](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0898-transpose-matrix) |
@@ -138,8 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0013-roman-to-integer) |
@@ -173,14 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2722-prime-in-diagonal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2722-prime-in-diagonal) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0013-roman-to-integer) |
@@ -210,8 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0020-valid-parentheses) |
@@ -245,8 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3860-resulting-string-after-adjacent-removals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0383-ransom-note) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -256,8 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -266,8 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3477-fruits-into-baskets-ii) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -281,13 +281,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-alternating-groups-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3206-alternating-groups-i) |
 | [3208-alternating-groups-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3208-alternating-groups-ii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1046-max-consecutive-ones-iii) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [0979-di-string-match](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1018-largest-perimeter-triangle) |
@@ -296,8 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2487-optimal-partition-of-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2487-optimal-partition-of-string) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0047-permutations-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0075-sort-colors) |
@@ -314,43 +314,43 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3606-coupon-code-validator](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3606-coupon-code-validator) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0561-array-partition](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0561-array-partition) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0046-permutations](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0113-path-sum-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1656-count-good-triplets](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1656-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2998-count-symmetric-integers) |
 | [3221-find-the-peaks](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3221-find-the-peaks) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0148-sort-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0231-power-of-two) |
@@ -358,12 +358,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0394-decode-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0225-implement-stack-using-queues) |
@@ -379,24 +379,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3447-clear-digits) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0240-search-a-2d-matrix-ii) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0148-sort-list) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0198-house-robber) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/SODABATTINAYASASWINI/LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0183-customers-who-never-order) |
 | [0584-find-customer-referee](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0586-customer-placing-the-largest-number-of-orders) |
@@ -409,13 +410,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1258-article-views-i) |
 | [1877-find-followers-count](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1877-find-followers-count) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0739-daily-temperatures) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -423,23 +424,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0113-path-sum-ii) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0101-symmetric-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0112-path-sum) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -447,24 +448,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0113-path-sum-ii) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0225-implement-stack-using-queues) |
 | [2169-simple-bank-system](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/2169-simple-bank-system) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0225-implement-stack-using-queues) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0374-guess-number-higher-or-lower) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
