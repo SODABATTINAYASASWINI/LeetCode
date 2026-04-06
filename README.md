@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/SODABATTINAYASASWINI/LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/SODABATTINAYASASWINI/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/SODABATTINAYASASWINI/LeetCode_Matrix/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
